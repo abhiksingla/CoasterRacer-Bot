@@ -13,13 +13,13 @@ The choice of the direction of the turn is made randomly between left or right.
 * random -  `pip install random`
 
 # Usage
-Run `python demo.py` in terminal to run this code <br /> <br />
+Run `python Bot.py` in terminal to run this code <br /> <br />
 `OR`
 
 
 1. Run `docker run -p 5900:5900 -p 15900:15900 --cap-add SYS_ADMIN --ipc host --privileged quay.io/openai/universe.flashgames:0.20.28`  (This is the image file for CoasterRacer-v0)
 
-2. Then run `python demo.py`
+2. Then run `python Bot.py`
 
 # Credit
 This work was learnt from and based on the [OpenAI's official Tweet](https://twitter.com/openai/status/805843673208393728?lang=en) and [Siral Raval](https://github.com/llSourcell)
