@@ -22,5 +22,5 @@ Run `python Bot.py` in terminal to run this code <br /> <br />
 2. Then run `python Bot.py`
 
 # Credit
-This work was learnt from and based on the [OpenAI's official Tweet](https://twitter.com/openai/status/805843673208393728?lang=en) and [Siral Raval](https://github.com/llSourcell)
+This work was learned from and based on the [OpenAI's official Tweet](https://twitter.com/openai/status/805843673208393728?lang=en) and [Siral Raval](https://github.com/llSourcell)
 
